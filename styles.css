@@ -21,17 +21,17 @@ p   {
 
 header {
   grid-area: cabecalho;
-  background-color: #48CFE0;
+  background-color: #294c74;
 }
 
 section {
    grid-area: secao;
-   background-color: #E05DA1;
+   background-color: #e7e1db;
 }
 
 aside {
    grid-area: barra-lateral;
-   background-color: #E0D475;
+   background-color: #c0b9ab;
 }
 
 footer {
@@ -41,7 +41,7 @@ footer {
 }
 .parte1, .parte2, .parte3 {
   width: 25%;
-  background-color: #5de05e;
+  background-color: #f17633;
 }
 
 .parte2 {
