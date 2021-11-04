@@ -17,6 +17,7 @@ p   {
     grid-template-areas: "cabecalho cabecalho" 
                          "secao barra-lateral" 
                          "rodape rodape";
+    border-collapse: collapse;
 }
 
 header {
